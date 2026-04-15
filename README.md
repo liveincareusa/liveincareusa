@@ -1,16 +1,21 @@
-## Hi there 👋
+# LiveInCare USA – Live-in Caregivers in the United States
 
-<!--
-**liveincareusa/liveincareusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LiveInCare USA is a platform that connects families with live-in caregivers and care agencies across the United States.
 
-Here are some ideas to get you started:
+Families can post care requests and find suitable caregivers, while caregivers can explore job opportunities and connect directly with families.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find Live-in Caregivers or Care Jobs
+
+If you are looking for reliable live-in care or caregiving jobs, you can explore the platform here:
+
+https://liveincareusa.com
+
+## How it works
+
+- Families create care listings for free  
+- Caregivers and agencies can respond  
+- Direct communication without unnecessary intermediaries  
+
+## About
+
+LiveInCare USA focuses on transparency and flexibility in the live-in care market, helping both families and caregivers find better matches.
