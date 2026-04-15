@@ -1,21 +1,26 @@
-# LiveInCare USA – Live-in Caregivers in the United States
+# LiveInCare USA – Live-in Caregivers Marketplace in the USA
 
-LiveInCare USA is a platform that connects families with live-in caregivers and care agencies across the United States.
+LiveInCare USA is a platform where families can find live-in caregivers and caregivers can find care jobs across the United States.
 
-Families can post care requests and find suitable caregivers, while caregivers can explore job opportunities and connect directly with families.
+🔗 https://liveincareusa.com
 
-## Find Live-in Caregivers or Care Jobs
+## Find Live-in Care
 
-If you are looking for reliable live-in care or caregiving jobs, you can explore the platform here:
+- Post a care job for free
+- Connect with independent caregivers or agencies
+- Find caregivers for Alzheimer’s, dementia, Parkinson’s and more
 
-https://liveincareusa.com
+## For Caregivers
 
-## How it works
+- Find live-in caregiver jobs in the USA
+- Connect directly with families
+- No agency required
 
-- Families create care listings for free  
-- Caregivers and agencies can respond  
-- Direct communication without unnecessary intermediaries  
+## Why LiveInCare USA
 
-## About
+- Free listings
+- Direct communication
+- Nationwide coverage
 
-LiveInCare USA focuses on transparency and flexibility in the live-in care market, helping both families and caregivers find better matches.
+Visit the platform:
+👉 https://liveincareusa.com
